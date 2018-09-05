@@ -21,9 +21,7 @@ export default class Contacts extends Component {
             </React.Fragment>
           )
         }}
-      </Consumer>
-
-      
+      </Consumer>     
     )
   }
 }
